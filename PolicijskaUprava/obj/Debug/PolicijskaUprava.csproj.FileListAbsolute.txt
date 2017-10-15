@@ -1,0 +1,260 @@
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe.config
+D:\download\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe.config
+D:\download\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.csprojResolveAssemblyReference.cache
+D:\download\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.Properties.Resources.resources
+D:\download\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.csproj.GenerateResource.Cache
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe.config
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.pdb
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.dll
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Iesi.Collections.dll
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\NHibernate.dll
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.pdb
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.xml
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Iesi.Collections.xml
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\NHibernate.xml
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.csprojResolveAssemblyReference.cache
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.Properties.Resources.resources
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.csproj.GenerateResource.Cache
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.exe
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.pdb
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.Form1.resources
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.dll
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.xml
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Vaske\Desktop\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.Web.dll
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe.config
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.exe
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.pdb
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.pdb
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.dll
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.dll
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Iesi.Collections.dll
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\NHibernate.dll
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.Web.dll
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.xml
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.pdb
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.xml
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Iesi.Collections.xml
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\NHibernate.xml
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.csprojResolveAssemblyReference.cache
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.Form1.resources
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.Properties.Resources.resources
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.csproj.GenerateResource.Cache
+C:\Users\Vaske\Desktop\ElFak\Baze Drugi domaci\VisualStudio\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.LogInForm.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\NHibernate.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe.config
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Iesi.Collections.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.Web.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.pdb
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Iesi.Collections.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\NHibernate.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.Form1.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.LogInForm.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.Properties.Resources.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.csproj.GenerateResource.Cache
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.exe
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.pdb
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.csprojResolveAssemblyReference.cache
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe.config
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.exe
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.pdb
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.pdb
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.dll
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.dll
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Iesi.Collections.dll
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\NHibernate.dll
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.Web.dll
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.xml
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.pdb
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.xml
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Iesi.Collections.xml
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\NHibernate.xml
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.csprojResolveAssemblyReference.cache
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.Form1.resources
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.LogInForm.resources
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.Properties.Resources.resources
+C:\Users\Vaske\Desktop\Baze\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.csproj.GenerateResource.Cache
+C:\Users\Vaske\Desktop\PolicijskaUprava 3.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.pdb
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe.config
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.pdb
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Iesi.Collections.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\NHibernate.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.Web.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.pdb
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Iesi.Collections.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\NHibernate.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeOsobe.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeUprave.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.Form1.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.LogInForm.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.Properties.Resources.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.csproj.GenerateResource.Cache
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.exe
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.pdb
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.csprojResolveAssemblyReference.cache
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeStanice.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeAlarma.resources
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe.config
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.exe
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.pdb
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.pdb
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.dll
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.SqlServer.dll
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.dll
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Iesi.Collections.dll
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\NHibernate.dll
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.DataAccess.dll
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.Web.dll
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.xml
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.SqlServer.xml
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.pdb
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.xml
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Iesi.Collections.xml
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\NHibernate.xml
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.csprojResolveAssemblyReference.cache
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeAlarma.resources
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeOsobe.resources
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeStanice.resources
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeUprave.resources
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.Form1.resources
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.LogInForm.resources
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.Properties.Resources.resources
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.csproj.GenerateResource.Cache
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeObjekta.resources
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavvanjeSkole.resources
+D:\download\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeIntervencije.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe.config
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.exe
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.pdb
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.pdb
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Iesi.Collections.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\NHibernate.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.Web.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.pdb
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Iesi.Collections.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\NHibernate.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.csprojResolveAssemblyReference.cache
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeAlarma.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeIntervencije.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeObjekta.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeOsobe.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeStanice.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeUprave.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavvanjeSkole.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.Form1.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.LogInForm.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.Properties.Resources.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.6\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.csproj.GenerateResource.Cache
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe.config
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.exe
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.pdb
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.pdb
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Iesi.Collections.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\NHibernate.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.Web.dll
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.pdb
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\Iesi.Collections.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\bin\Debug\NHibernate.xml
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.csprojResolveAssemblyReference.cache
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeAlarma.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeIntervencije.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeObjekta.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeOsobe.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeStanice.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeUprave.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavvanjeSkole.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.Form1.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.LogInForm.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.Properties.Resources.resources
+C:\Users\Vaske\Desktop\PolicijskaUprava 4.7\PolicijskaUprava 4.0\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.csproj.GenerateResource.Cache
+D:\download\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.exe
+D:\download\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.pdb
+D:\download\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.exe
+D:\download\PolicijskaUprava\PolicijskaUprava\bin\Debug\PolicijskaUprava.pdb
+D:\download\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.dll
+D:\download\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.SqlServer.dll
+D:\download\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.dll
+D:\download\PolicijskaUprava\PolicijskaUprava\bin\Debug\Iesi.Collections.dll
+D:\download\PolicijskaUprava\PolicijskaUprava\bin\Debug\NHibernate.dll
+D:\download\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.DataAccess.dll
+D:\download\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\download\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\download\PolicijskaUprava\PolicijskaUprava\bin\Debug\Oracle.Web.dll
+D:\download\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.xml
+D:\download\PolicijskaUprava\PolicijskaUprava\bin\Debug\EntityFramework.SqlServer.xml
+D:\download\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.pdb
+D:\download\PolicijskaUprava\PolicijskaUprava\bin\Debug\FluentNHibernate.xml
+D:\download\PolicijskaUprava\PolicijskaUprava\bin\Debug\Iesi.Collections.xml
+D:\download\PolicijskaUprava\PolicijskaUprava\bin\Debug\NHibernate.xml
+D:\download\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeAlarma.resources
+D:\download\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeIntervencije.resources
+D:\download\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeObjekta.resources
+D:\download\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeOsobe.resources
+D:\download\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeStanice.resources
+D:\download\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeUprave.resources
+D:\download\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeVozila.resources
+D:\download\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavvanjeSkole.resources
+D:\download\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.Form1.resources
+D:\download\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.LogInForm.resources
+D:\download\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjeSektora.resources
+D:\download\PolicijskaUprava\PolicijskaUprava\obj\Debug\PolicijskaUprava.DodavanjePatrole.resources

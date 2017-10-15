@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3D24B8FB-A4DB-42A0-AAE8-BA0B8C4B2027}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PolicijskaUprava</RootNamespace>
+    <AssemblyName>PolicijskaUprava</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FluentNHibernate, Version=2.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentNHibernate.2.0.3.0\lib\net40\FluentNHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=4.0.0.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Iesi.Collections.4.0.0.4000\lib\net40\Iesi.Collections.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NHibernate, Version=4.0.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHibernate.4.0.0.4000\lib\net40\NHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Oracle.DataAccess, Version=4.112.3.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=AMD64">
+      <HintPath>..\packages\odp.net.x64.112.3.0\lib\net40\Oracle.DataAccess.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.121.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.12.1.24160419\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess.EntityFramework, Version=6.121.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.EntityFramework.12.1.2400\lib\net45\Oracle.ManagedDataAccess.EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Oracle.Web, Version=4.112.3.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=AMD64">
+      <HintPath>..\packages\odac.client.x64.1.112.3.20\lib\net40\Oracle.Web.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataLayer.cs" />
+    <Compile Include="DataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DodavanjeAlarma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodavanjeAlarma.Designer.cs">
+      <DependentUpon>DodavanjeAlarma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodavanjeIntervencije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodavanjeIntervencije.Designer.cs">
+      <DependentUpon>DodavanjeIntervencije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodavanjeObjekta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodavanjeObjekta.Designer.cs">
+      <DependentUpon>DodavanjeObjekta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodavanjeOsobe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodavanjeOsobe.Designer.cs">
+      <DependentUpon>DodavanjeOsobe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodavanjePatrole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodavanjePatrole.Designer.cs">
+      <DependentUpon>DodavanjePatrole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodavanjeSektora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodavanjeSektora.Designer.cs">
+      <DependentUpon>DodavanjeSektora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodavanjeStanice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodavanjeStanice.Designer.cs">
+      <DependentUpon>DodavanjeStanice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodavanjeUprave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodavanjeUprave.Designer.cs">
+      <DependentUpon>DodavanjeUprave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodavanjeVozila.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodavanjeVozila.Designer.cs">
+      <DependentUpon>DodavanjeVozila.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodavvanjeSkole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodavvanjeSkole.Designer.cs">
+      <DependentUpon>DodavvanjeSkole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entiteti\AlarmniSistem.cs" />
+    <Compile Include="Entiteti\Intervencija.cs" />
+    <Compile Include="Entiteti\Objekat.cs" />
+    <Compile Include="Entiteti\Osoba.cs" />
+    <Compile Include="Entiteti\Patrola.cs" />
+    <Compile Include="Entiteti\Sektor.cs" />
+    <Compile Include="Entiteti\Skola.cs" />
+    <Compile Include="Entiteti\Stanica.cs" />
+    <Compile Include="Entiteti\Telefoni.cs" />
+    <Compile Include="Entiteti\Uprava.cs" />
+    <Compile Include="Entiteti\Vozilo.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs" />
+    <Compile Include="LogInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogInForm.Designer.cs">
+      <DependentUpon>LogInForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mapiranja\AlarmniSistemMapiranje.cs" />
+    <Compile Include="Mapiranja\IntervencijaMapiranje.cs" />
+    <Compile Include="Mapiranja\ObjekatMapiranje.cs" />
+    <Compile Include="Mapiranja\OsobaMapiranja.cs" />
+    <Compile Include="Mapiranja\PatrolaMapiranje.cs" />
+    <Compile Include="Mapiranja\SektorMapiranje.cs" />
+    <Compile Include="Mapiranja\SkolaMapiranje.cs" />
+    <Compile Include="Mapiranja\StanicaMapiranje.cs" />
+    <Compile Include="Mapiranja\TelefoniMapiranje.cs" />
+    <Compile Include="Mapiranja\UpravaMapiranje.cs" />
+    <Compile Include="Mapiranja\VozloMapiranje.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DodavanjeAlarma.resx">
+      <DependentUpon>DodavanjeAlarma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodavanjeIntervencije.resx">
+      <DependentUpon>DodavanjeIntervencije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodavanjeObjekta.resx">
+      <DependentUpon>DodavanjeObjekta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodavanjeOsobe.resx">
+      <DependentUpon>DodavanjeOsobe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodavanjePatrole.resx">
+      <DependentUpon>DodavanjePatrole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodavanjeSektora.resx">
+      <DependentUpon>DodavanjeSektora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodavanjeStanice.resx">
+      <DependentUpon>DodavanjeStanice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodavanjeUprave.resx">
+      <DependentUpon>DodavanjeUprave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodavanjeVozila.resx">
+      <DependentUpon>DodavanjeVozila.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodavvanjeSkole.resx">
+      <DependentUpon>DodavvanjeSkole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogInForm.resx">
+      <DependentUpon>LogInForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="DataSet11.xsc">
+      <DependentUpon>DataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet11.xss">
+      <DependentUpon>DataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
